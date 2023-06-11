@@ -1,6 +1,4 @@
 package Main;
-import java.util.Arrays;
-import java.util.Scanner;
 import Class.*;
 import Math.Operations;
 
@@ -9,7 +7,7 @@ public class Main {
     {
 //        Scanner console = new Scanner(System.in);
 //        boolean continueAsking;
-        float val = 0;
+//        float val = 0;
 
         Operations op = new Operations();
 
