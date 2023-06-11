@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args)
     {
         Scanner console = new Scanner(System.in);
-        boolean continueAsking = false;
+        boolean continueAsking;
         float val = 0;
 
         do{
